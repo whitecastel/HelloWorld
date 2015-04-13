@@ -6,4 +6,3 @@ again test
 fix bug 767
 my nama is hehui_zou
 fix bug 5657
-my name is hehui_zou
